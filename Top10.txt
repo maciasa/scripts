@@ -1,0 +1,15 @@
+      9  emacs main.cpp
+      9  ./L03.out
+     11  cd Project 1
+     11  g++ maciasP1.cpp -o P1.out
+     11  g++ maciasP1.cpp -o P1.out |& more
+     12  ./L02b.out
+     13  cd cs215s14
+     26  g++ maciasL01.cpp -o L01.out
+     27  emacs maciasP1.cpp
+     28  emacs maciasL01.cpp
+     29  g++ maciasL03.cpp -o L03.out
+     32  emacs maciasL03.cpp
+     55  ls
+     67  emacs maciasL02b.cpp
+     68  g++ maciasL02b.cpp -o L02b.out
